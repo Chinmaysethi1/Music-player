@@ -98,4 +98,11 @@ nav .circle{
     border-radius: 50%;
     color:rgb(5, 14, 21);
     box-shadow:0 5px 10px rgba(20, 47, 200, 0.6) ;
+    cursor:pointer;
+}
+
+.controls div:nth-child(2){
+    transform:scale(1.5);
+    background:#6a50ba;
+    color:#fff;
 }
